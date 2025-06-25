@@ -42,7 +42,10 @@ My research focuses on:
 - *2020.09 – 2024.06*, B.Eng in Intelligent Science and Technology, Sun Yat-sen University
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- **Internship at MBZUAI under Professor Xiaodan Liang** (2023-2024)\
+  Conducted research on visual-language pretraining and representation alignment in multimodal learning.
+- **Research Internship in Zhijian Liu's Lab at UCSD** (2025 – Present)\
+  Focused on unified generative modeling (UniGeneration), integrating vision and language with multimodal LLMs.
 
 # 💬 Contact
 
