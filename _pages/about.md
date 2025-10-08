@@ -35,10 +35,10 @@ My research focuses on **unified multimodal generative models**, particularly on
 - *2020.09 – 2024.06*, B.Eng in Intelligent Science and Technology, Sun Yat-sen University
 
 # 💻 Internships
-- **Internship at Sun Yat-sen Univeristy under Professor Xiaodan Liang** (2023.10-2024.9)\
-  Conducted research on visual-language pretraining and representation alignment in multimodal learning.
 - **Research Internship in Zhijian Liu's Lab at UCSD** (2025.6 – Present)\
   Focused on unified generative modeling (UniGeneration), integrating vision and language with multimodal LLMs.
+- **Internship at Sun Yat-sen Univeristy under Professor Xiaodan Liang** (2023.10-2024.9)\
+  Conducted research on visual-language pretraining and representation alignment in multimodal learning.
 
 # 💬 Contact
 
