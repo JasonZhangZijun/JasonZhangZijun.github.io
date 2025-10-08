@@ -12,27 +12,20 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
+{% endif %} 
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Master's student in **Electrical and Computer Engineering** at **UC San Diego**, specializing in **Machine Learning and Data Science**. I obtained my Bachelor’s degree from **Sun Yat-sen University**, majoring in **Intelligent Science and Technology**. My academic journey has been supported by consistent Merit Scholarships and outstanding academic performance.
-
-My research interests lie in **generative modeling**, particularly **diffusion models**, **multimodal large language models (MLLMs)**, and **reinforcement learning** applied to generative tasks. I’m currently focused on **visual reasoning**, **scene graph understanding**, and **latent reward fine-tuning** in video and image generation.
-
-
-# 🔥 News
-- *2025.05*: 🎉 I am excited to join **Professor Zhijian Liu**'s lab! I will be working on the **UniGeneration** project, exploring unified generative frameworks across modalities.
+I’m a **M.S. student in Electrical and Computer Engineering (Machine Learning and Data Science)** at **UC San Diego**, where I focus on **Generative AI**, **Multimodal Reasoning**, and **AI Safety**. 
+Previously, I earned my **B.Eng. in Intelligent Science and Technology** from **Sun Yat-sen University**, with a GPA of **3.8/4.0** (upper-division 4.0/4.0).
 
 # 🔬 Research Interests
 
-My research focuses on:
+My research focuses on **unified multimodal generative models**, particularly on bridging **text and image generation** to achieve semantic alignment and mutual enhancement between modalities.
+ I am also interested in **AI safety and robustness**, studying how large models can remain reliable and secure under adversarial or backdoor conditions.
 
-- Generative models (Diffusion, VAE, Autoregressive)
-- Multimodal large language models (MLLMs)
-- Visual reasoning and scene graph understanding
-- Reinforcement learning for generative optimization
+---
 
 # 🎖 Honors and Awards
 - Merit Scholarship, Sun Yat-sen University (2020–2024)
@@ -42,9 +35,9 @@ My research focuses on:
 - *2020.09 – 2024.06*, B.Eng in Intelligent Science and Technology, Sun Yat-sen University
 
 # 💻 Internships
-- **Internship at MBZUAI under Professor Xiaodan Liang** (2023-2024)\
+- **Internship at Sun Yat-sen Univeristy under Professor Xiaodan Liang** (2023.10-2024.9)\
   Conducted research on visual-language pretraining and representation alignment in multimodal learning.
-- **Research Internship in Zhijian Liu's Lab at UCSD** (2025 – Present)\
+- **Research Internship in Zhijian Liu's Lab at UCSD** (2025.6 – Present)\
   Focused on unified generative modeling (UniGeneration), integrating vision and language with multimodal LLMs.
 
 # 💬 Contact
