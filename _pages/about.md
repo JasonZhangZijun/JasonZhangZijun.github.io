@@ -64,4 +64,5 @@ In addition, I am exploring **AI safety and robustness**, studying how large mod
 - Email: [ziz135@ucsd.edu](mailto:ziz135@ucsd.edu)
 - Website: [JasonZhangZijun.github.io](https://jasonzhangzijun.github.io/)
 - LinkedIn: [linkedin.com/in/zijunzhang0221](https://www.linkedin.com/in/zijunzhang0221)
-- Scholar: https://scholar.google.com/citations?user=sj0FW74AAAAJ&hl=en
+- Scholar: [https://scholar.google.com/citations?user=sj0FW74AAAAJ&hl=en](https://scholar.google.com/citations?user=sj0FW74AAAAJ&hl=en)
+
