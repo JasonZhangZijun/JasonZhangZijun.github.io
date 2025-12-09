@@ -50,10 +50,12 @@ In addition, I am exploring **AI safety and robustness**, studying how large mod
 # 📑Publications
 
 **Learning Plug-and-play Memory for Guiding Video Diffusion Models** [arXiv](https://arxiv.org/abs/2511.19229?utm_source=chatgpt.com)
+
  Selena Song\*, Ziming Xu\*, <u>**Zijun Zhang**</u>, Kun Zhou, Jiaxian Guo, Lianhui Qin, Biwei Huang 
  Under Review (CVPR submission)
 
 **Steganographic Backdoor Attacks in NLP: Ultra-Low Poisoning and Defense Evasion** [arXiv](https://arxiv.org/abs/2511.14301?utm_source=chatgpt.com)
+
  Eric Xue, Ruiyi Zhang, **<u>Zijun Zhang</u>**, Pengtao Xie 
  arXiv Preprint
 
